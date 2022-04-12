@@ -9,8 +9,3 @@ const sumWithInitial = array1.reduce(
 
 console.log(sumWithInitial);
 // expected output: 10
-
-
-'''
-Alot of confusion with the reduce method 
-'''
